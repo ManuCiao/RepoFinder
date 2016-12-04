@@ -4,6 +4,9 @@
  * @flow
  */
 
+import App from './app';
+export default App;
+
 import React, { Component } from 'react';
 import {
   AppRegistry,
